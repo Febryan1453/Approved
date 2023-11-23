@@ -1,11 +1,12 @@
 <h1 align="center">Tes Kemampuan Skill</h1>
 
-<p>
+
 ### Admin Features :
+    
 - Approve Users
 - History
 - Logout
-</p>
+  
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
