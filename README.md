@@ -1,6 +1,4 @@
-<h1 align="center">Mazer Dashboard</h1>
-
-![Mazer Screenshot](https://user-images.githubusercontent.com/45036724/167523601-9d20fb17-1989-488f-b619-cb53c0db8898.png)
+<h1 align="center">Tes Kemampuan Skill</h1>
 
 <p align="center">Mazer is an Admin Dashboard Template that can help you develop faster. Made with Bootstrap 5. No jQuery dependency.</p>
 
@@ -11,9 +9,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## FORM LOGIN
 
-![Mazer Screenshot](https://user-images.githubusercontent.com/45036724/167523601-9d20fb17-1989-488f-b619-cb53c0db8898.png)
+[![Form Login](https://i.postimg.cc/63Chn3kN/form-login.png)](https://postimg.cc/gXkRPYcM)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Forn Login untuk Admin dan user biasa
 
