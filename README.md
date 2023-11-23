@@ -6,7 +6,7 @@
 - Approve Users
 - History
 - Logout
-### Admin Features :
+### User Features :
 - My Profile
 - Logout
   
