@@ -1,6 +1,11 @@
 <h1 align="center">Tes Kemampuan Skill</h1>
 
-<p align="center">Mazer is an Admin Dashboard Template that can help you develop faster. Made with Bootstrap 5. No jQuery dependency.</p>
+<p>
+### Admin Features :
+- Approve Users
+- History
+- Logout
+</p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
